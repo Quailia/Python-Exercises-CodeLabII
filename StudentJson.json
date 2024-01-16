@@ -1,0 +1,9 @@
+{
+    "Name": "Student",
+    "ID": 123,
+    "course": "Python",
+    "CourseDetails": {
+        "Group": "ABC123",
+        "Year": 2023
+    }
+}

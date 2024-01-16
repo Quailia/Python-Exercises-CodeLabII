@@ -1,0 +1,3 @@
+student
+7
+home
